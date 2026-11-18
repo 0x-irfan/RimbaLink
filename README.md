@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/CAMERA-ESP32--CAM-374151?style=flat-square&logoColor=white" alt="ESP32-CAM">
   <img src="https://img.shields.io/badge/WIRELESS-LoRa-7C3AED?style=flat-square&logoColor=white" alt="LoRa">
   <img src="https://img.shields.io/badge/HARDWARE-PCB_DESIGN-2563EB?style=flat-square&logoColor=white" alt="PCB design">
+  <a href="https://easyeda.com/"><img src="https://img.shields.io/badge/PCB%20DESIGN-EasyEDA-1769FF?style=flat-square&logo=easyeda&logoColor=white" alt="Designed with EasyEDA"></a>
   <img src="https://img.shields.io/badge/FIRMWARE-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C/C++">
 </p>
 
