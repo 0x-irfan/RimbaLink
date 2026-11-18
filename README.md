@@ -18,17 +18,34 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROJECT-RIMBALINK-16A34A?style=for-the-badge&logo=leaflet&logoColor=white" alt="RimbaLink">
-  <img src="https://img.shields.io/badge/IoT-ENVIRONMENTAL_MONITORING-0EA5E9?style=for-the-badge" alt="Environmental monitoring">
-  <img src="https://img.shields.io/badge/COMMUNICATION-LoRa-7C3AED?style=for-the-badge" alt="LoRa">
-  <img src="https://img.shields.io/badge/POWER-SOLAR_ENERGY-F59E0B?style=for-the-badge" alt="Solar energy">
+  <img src="https://img.shields.io/badge/RIMBALINK-EARLY_WARNING_SYSTEM-15803D?style=for-the-badge&logo=leaflet&logoColor=white" alt="RimbaLink Early Warning System">
+  <img src="https://img.shields.io/badge/IoT-ENVIRONMENTAL_MONITORING-0284C7?style=for-the-badge&logo=homeassistant&logoColor=white" alt="IoT environmental monitoring">
+  <img src="https://img.shields.io/badge/LONG_RANGE- LoRa-6D28D9?style=for-the-badge" alt="LoRa communication">
+  <img src="https://img.shields.io/badge/ENERGY-SOLAR_POWER-F59E0B?style=for-the-badge&logo= solarpower&logoColor=white" alt="Solar power">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=flat-square" alt="ESP32">
-  <img src="https://img.shields.io/badge/ESP32--CAM-Camera-333333?style=flat-square" alt="ESP32-CAM">
-  <img src="https://img.shields.io/badge/PCB-Hardware_Design-2563EB?style=flat-square" alt="PCB design">
-  <img src="https://img.shields.io/badge/Firmware-Embedded_C%2FC%2B%2B-00599C?style=flat-square" alt="Firmware">
+  <img src="https://img.shields.io/badge/MCU-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/CAMERA-ESP32--CAM-374151?style=flat-square&logo= camera&logoColor=white" alt="ESP32-CAM">
+  <img src="https://img.shields.io/badge/WIRELESS-LoRa-7C3AED?style=flat-square&logo= radio&logoColor=white" alt="LoRa">
+  <img src="https://img.shields.io/badge/HARDWARE-PCB_DESIGN-2563EB?style=flat-square&logo= circuitverse&logoColor=white" alt="PCB design">
+  <img src="https://img.shields.io/badge/FIRMWARE-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="Embedded C/C++">
+</p>
+
+<p align="center">
+  <a href="https://github.com/0x-irfan/RimbaLink/stargazers"><img src="https://img.shields.io/github/stars/0x-irfan/RimbaLink?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars"></a>
+  <a href="https://github.com/0x-irfan/RimbaLink/network/members"><img src="https://img.shields.io/github/forks/0x-irfan/RimbaLink?style=for-the-badge&logo=git&label=FORKS" alt="GitHub forks"></a>
+  <a href="https://github.com/0x-irfan/RimbaLink/issues"><img src="https://img.shields.io/github/issues/0x-irfan/RimbaLink?style=for-the-badge&logo=github&label=ISSUES" alt="Open issues"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/0x-irfan/RimbaLink?style=flat-square&logo=github&label=Last%20update" alt="Last commit">
+  <img src="https://img.shields.io/github/repo-size/0x-irfan/RimbaLink?style=flat-square&logo=github&label=Repository%20size" alt="Repository size">
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F97316?style=flat-square" alt="In development">
+</p>
+
+<p align="center">
+  <sub>🌱 Monitoring nature · 📡 Connecting the field · ☀️ Powered by sunlight</sub>
 </p>
 
 <p align="center">
