@@ -4,13 +4,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RIMBALINK-EARLY_WARNING_SYSTEM-15803D?style=for-the-badge&logo=leaflet&logoColor=white" alt="RimbaLink Early Warning System">
-  <img src="https://img.shields.io/badge/IoT-ENVIRONMENTAL_MONITORING-0284C7?style=for-the-badge&logo=homeassistant&logoColor=white" alt="IoT environmental monitoring">
-  <img src="https://img.shields.io/badge/LONG_RANGE- LoRa-6D28D9?style=for-the-badge" alt="LoRa communication">
-  <img src="https://img.shields.io/badge/ENERGY-SOLAR_POWER-F59E0B?style=for-the-badge&logo=sun&logoColor=white" alt="Solar power">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/MCU-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/CAMERA-ESP32--CAM-374151?style=flat-square&logoColor=white" alt="ESP32-CAM">
   <img src="https://img.shields.io/badge/WIRELESS-LoRa-7C3AED?style=flat-square&logoColor=white" alt="LoRa">
