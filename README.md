@@ -1,10 +1,6 @@
-<!--
-  RIMBALINK
-  Dokumentasi proyek sistem peringatan dini karhutla berbasis LoRa dan energi surya.
--->
 
 <p align="center">
-  <img src="docs/images/rimbalink-banner.png" alt="RimbaLink banner" width="100%">
+  <img src="gambar/rimbalink.png" alt="RimbaLink banner" width="100%">
 </p>
 
 <h1 align="center">RIMBALINK</h1>
