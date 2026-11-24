@@ -27,53 +27,39 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 2. Desain PCB
 
-Layout PCB ditampilkan dalam galeri terpusat agar setiap desain lebih mudah dilihat.
+Layout PCB disusun berdampingan agar perbandingan setiap desain lebih mudah dilihat.
 
-<p align="center">
-  <strong>Node</strong><br>
-  <img src="gambar/NODE_PCB.png" alt="PCB Node" width="300">
-</p>
-<p align="center">
-  <strong>Gateway</strong><br>
-  <img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300">
-</p>
-<p align="center">
-  <strong>LoRa</strong><br>
-  <img src="gambar/LORA_PCB.png" alt="PCB LoRa" width="300">
-</p>
-<p align="center">
-  <strong>ESP32-CAM</strong><br>
-  <img src="gambar/ESPCAM_PCB.png" alt="PCB ESP32-CAM" width="300">
-</p>
-<p align="center">
-  <strong>Power</strong><br>
-  <img src="gambar/POWER_PCB.png" alt="PCB Power" width="300">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Node</strong><br><img src="gambar/NODE_PCB.png" alt="PCB Node" width="300"></td>
+    <td align="center"><strong>Gateway</strong><br><img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>LoRa</strong><br><img src="gambar/LORA_PCB.png" alt="PCB LoRa" width="300"></td>
+    <td align="center"><strong>Power</strong><br><img src="gambar/POWER_PCB.png" alt="PCB Power" width="300"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>ESP32-CAM</strong><br><img src="gambar/ESPCAM_PCB.png" alt="PCB ESP32-CAM" width="300"></td>
+  </tr>
+</table>
 
 ### 3. Visualisasi 3D PCB
 
-Render 3D ditampilkan terpusat untuk memudahkan pemeriksaan penempatan komponen dan gambaran fisik PCB.
+Render 3D disusun berdampingan untuk memudahkan perbandingan bentuk dan penempatan komponen.
 
-<p align="center">
-  <strong>Node</strong><br>
-  <img src="docs/images/3d-node.png" alt="3D Node" width="280">
-</p>
-<p align="center">
-  <strong>Gateway</strong><br>
-  <img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280">
-</p>
-<p align="center">
-  <strong>LoRa</strong><br>
-  <img src="docs/images/3d-lora.png" alt="3D LoRa" width="280">
-</p>
-<p align="center">
-  <strong>ESP32-CAM</strong><br>
-  <img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280">
-</p>
-<p align="center">
-  <strong>Power</strong><br>
-  <img src="docs/images/3d-power.png" alt="3D Power" width="280">
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>Node</strong><br><img src="docs/images/3d-node.png" alt="3D Node" width="280"></td>
+    <td align="center"><strong>Gateway</strong><br><img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>LoRa</strong><br><img src="docs/images/3d-lora.png" alt="3D LoRa" width="280"></td>
+    <td align="center"><strong>Power</strong><br><img src="docs/images/3d-power.png" alt="3D Power" width="280"></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><strong>ESP32-CAM</strong><br><img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280"></td>
+  </tr>
+</table>
 
 ### 4. Realisasi PCB
 
