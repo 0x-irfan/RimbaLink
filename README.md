@@ -59,62 +59,37 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 4. Realisasi PCB
 
-<details>
-<summary><strong>Node</strong></summary>
+Foto PCB ditampilkan dalam tabel biasa agar tampak depan dan belakang setiap board terlihat langsung tanpa membuka bagian *summary*.
 
-<p align="center">
-  <img src="docs/images/real-node-front.png" alt="Node front" width="220">
-  <img src="docs/images/real-node-back.png" alt="Node back" width="220">
-</p>
-
-<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
-
-</details>
-
-<details>
-<summary><strong>Gateway</strong></summary>
-
-<p align="center">
-  <img src="docs/images/real-gateway-front.png" alt="Gateway front" width="220">
-  <img src="docs/images/real-gateway-back.png" alt="Gateway back" width="220">
-</p>
-
-<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
-
-</details>
-
-<details>
-<summary><strong>LoRa</strong></summary>
-
-<p align="center">
-  <img src="docs/images/real-lora-front.png" alt="LoRa front" width="220">
-  <img src="docs/images/real-lora-back.png" alt="LoRa back" width="220">
-</p>
-
-<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
-
-</details>
-
-<details>
-<summary><strong>ESP32-CAM</strong></summary>
-
-<p align="center">
-  <img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="220">
-  <img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="220">
-</p>
-
-<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
-
-</details>
-
-<details>
-<summary><strong>Power</strong></summary>
-
-<p align="center">
-  <img src="docs/images/real-power-front.png" alt="Power front" width="220">
-  <img src="docs/images/real-power-back.png" alt="Power back" width="220">
-</p>
-
-<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
-
-</details>
+<table align="center">
+  <tr>
+    <th align="center">Board</th>
+    <th align="center">Tampak Depan</th>
+    <th align="center">Tampak Belakang</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>Node</strong></td>
+    <td align="center"><img src="docs/images/real-node-front.png" alt="Node front" width="200"></td>
+    <td align="center"><img src="docs/images/real-node-back.png" alt="Node back" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Gateway</strong></td>
+    <td align="center"><img src="docs/images/real-gateway-front.png" alt="Gateway front" width="200"></td>
+    <td align="center"><img src="docs/images/real-gateway-back.png" alt="Gateway back" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>LoRa</strong></td>
+    <td align="center"><img src="docs/images/real-lora-front.png" alt="LoRa front" width="200"></td>
+    <td align="center"><img src="docs/images/real-lora-back.png" alt="LoRa back" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ESP32-CAM</strong></td>
+    <td align="center"><img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="200"></td>
+    <td align="center"><img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Power</strong></td>
+    <td align="center"><img src="docs/images/real-power-front.png" alt="Power front" width="200"></td>
+    <td align="center"><img src="docs/images/real-power-back.png" alt="Power back" width="200"></td>
+  </tr>
+</table>
