@@ -27,25 +27,53 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 2. Desain PCB
 
-| Modul | Layout PCB |
-|---|---|
-| Node | <p align="center"><img src="gambar/NODE_PCB.png" alt="PCB Node" width="300"></p> |
-| Gateway | <p align="center"><img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300"></p> |
-| LoRa | <p align="center"><img src="gambar/LORA_PCB.png" alt="PCB LoRa" width="300"></p> |
-| ESP32-CAM | <p align="center"><img src="gambar/ESPCAM_PCB.png" alt="PCB ESP32-CAM" width="300"></p> |
-| Power | <p align="center"><img src="gambar/POWER_PCB.png" alt="PCB Power" width="300"></p> |
+Layout PCB ditampilkan dalam galeri terpusat agar setiap desain lebih mudah dilihat.
+
+<p align="center">
+  <strong>Node</strong><br>
+  <img src="gambar/NODE_PCB.png" alt="PCB Node" width="300">
+</p>
+<p align="center">
+  <strong>Gateway</strong><br>
+  <img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300">
+</p>
+<p align="center">
+  <strong>LoRa</strong><br>
+  <img src="gambar/LORA_PCB.png" alt="PCB LoRa" width="300">
+</p>
+<p align="center">
+  <strong>ESP32-CAM</strong><br>
+  <img src="gambar/ESPCAM_PCB.png" alt="PCB ESP32-CAM" width="300">
+</p>
+<p align="center">
+  <strong>Power</strong><br>
+  <img src="gambar/POWER_PCB.png" alt="PCB Power" width="300">
+</p>
 
 ### 3. Visualisasi 3D PCB
 
-Render 3D digunakan untuk memeriksa penempatan komponen dan gambaran fisik PCB sebelum proses fabrikasi.
+Render 3D ditampilkan terpusat untuk memudahkan pemeriksaan penempatan komponen dan gambaran fisik PCB.
 
-| Modul | Render 3D |
-|---|---|
-| Node | <p align="center"><img src="docs/images/3d-node.png" alt="3D Node" width="280"></p> |
-| Gateway | <p align="center"><img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280"></p> |
-| LoRa | <p align="center"><img src="docs/images/3d-lora.png" alt="3D LoRa" width="280"></p> |
-| ESP32-CAM | <p align="center"><img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280"></p> |
-| Power | <p align="center"><img src="docs/images/3d-power.png" alt="3D Power" width="280"></p> |
+<p align="center">
+  <strong>Node</strong><br>
+  <img src="docs/images/3d-node.png" alt="3D Node" width="280">
+</p>
+<p align="center">
+  <strong>Gateway</strong><br>
+  <img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280">
+</p>
+<p align="center">
+  <strong>LoRa</strong><br>
+  <img src="docs/images/3d-lora.png" alt="3D LoRa" width="280">
+</p>
+<p align="center">
+  <strong>ESP32-CAM</strong><br>
+  <img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280">
+</p>
+<p align="center">
+  <strong>Power</strong><br>
+  <img src="docs/images/3d-power.png" alt="3D Power" width="280">
+</p>
 
 ### 4. Realisasi PCB
 
@@ -54,45 +82,60 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 <details>
 <summary><strong>Node</strong></summary>
 
-| Tampak depan | Tampak belakang |
-|---|---|
-| <p align="center"><img src="docs/images/real-node-front.png" alt="Node front" width="220"></p> | <p align="center"><img src="docs/images/real-node-back.png" alt="Node back" width="220"></p> |
+<p align="center">
+  <img src="docs/images/real-node-front.png" alt="Node front" width="220">
+  <img src="docs/images/real-node-back.png" alt="Node back" width="220">
+</p>
+
+<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
 
 </details>
 
 <details>
 <summary><strong>Gateway</strong></summary>
 
-| Tampak depan | Tampak belakang |
-|---|---|
-| <p align="center"><img src="docs/images/real-gateway-front.png" alt="Gateway front" width="220"></p> | <p align="center"><img src="docs/images/real-gateway-back.png" alt="Gateway back" width="220"></p> |
+<p align="center">
+  <img src="docs/images/real-gateway-front.png" alt="Gateway front" width="220">
+  <img src="docs/images/real-gateway-back.png" alt="Gateway back" width="220">
+</p>
+
+<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
 
 </details>
 
 <details>
 <summary><strong>LoRa</strong></summary>
 
-| Tampak depan | Tampak belakang |
-|---|---|
-| <p align="center"><img src="docs/images/real-lora-front.png" alt="LoRa front" width="220"></p> | <p align="center"><img src="docs/images/real-lora-back.png" alt="LoRa back" width="220"></p> |
+<p align="center">
+  <img src="docs/images/real-lora-front.png" alt="LoRa front" width="220">
+  <img src="docs/images/real-lora-back.png" alt="LoRa back" width="220">
+</p>
+
+<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
 
 </details>
 
 <details>
 <summary><strong>ESP32-CAM</strong></summary>
 
-| Tampak depan | Tampak belakang |
-|---|---|
-| <p align="center"><img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="220"></p> | <p align="center"><img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="220"></p> |
+<p align="center">
+  <img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="220">
+  <img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="220">
+</p>
+
+<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
 
 </details>
 
 <details>
 <summary><strong>Power</strong></summary>
 
-| Tampak depan | Tampak belakang |
-|---|---|
-| <p align="center"><img src="docs/images/real-power-front.png" alt="Power front" width="220"></p> | <p align="center"><img src="docs/images/real-power-back.png" alt="Power back" width="220"></p> |
+<p align="center">
+  <img src="docs/images/real-power-front.png" alt="Power front" width="220">
+  <img src="docs/images/real-power-back.png" alt="Power back" width="220">
+</p>
+
+<p align="center"><sub>Tampak depan · Tampak belakang</sub></p>
 
 </details>
 
