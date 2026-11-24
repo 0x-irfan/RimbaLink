@@ -3,14 +3,6 @@
   <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
 </p>
 
-<h3 align="center">
-  Sistem Peringatan Dini Karhutla dan Pemantauan Lahan Berbasis Node LoRa Surya
-</h3>
-
-<p align="center">
-  <em>Dengan Verifikasi Kamera, Peta Risiko, dan Prakiraan</em>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/RIMBALINK-EARLY_WARNING_SYSTEM-15803D?style=for-the-badge&logo=leaflet&logoColor=white" alt="RimbaLink Early Warning System">
   <img src="https://img.shields.io/badge/IoT-ENVIRONMENTAL_MONITORING-0284C7?style=for-the-badge&logo=homeassistant&logoColor=white" alt="IoT environmental monitoring">
