@@ -12,26 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0x-irfan/RimbaLink/stargazers"><img src="https://img.shields.io/github/stars/0x-irfan/RimbaLink?style=for-the-badge&logo=github&label=STARS" alt="GitHub stars"></a>
-  <a href="https://github.com/0x-irfan/RimbaLink/network/members"><img src="https://img.shields.io/github/forks/0x-irfan/RimbaLink?style=for-the-badge&logo=git&label=FORKS" alt="GitHub forks"></a>
-  <a href="https://github.com/0x-irfan/RimbaLink/issues"><img src="https://img.shields.io/github/issues/0x-irfan/RimbaLink?style=for-the-badge&logo=github&label=ISSUES" alt="Open issues"></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/last-commit/0x-irfan/RimbaLink?style=flat-square&logo=github&label=Last%20update" alt="Last commit">
   <img src="https://img.shields.io/github/repo-size/0x-irfan/RimbaLink?style=flat-square&logo=github&label=Repository%20size" alt="Repository size">
   <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F97316?style=flat-square" alt="In development">
-</p>
-
-<p align="center">
-  <sub>🌱 Monitoring nature · 📡 Connecting the field · ☀️ Powered by sunlight</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/0x-irfan/RimbaLink">Repository</a> ·
-  <a href="#arsitektur-sistem">Arsitektur</a> ·
-  <a href="#pengembangan-hardware">Hardware</a> ·
-  <a href="#status-pengembangan">Status</a>
 </p>
 
 ---
