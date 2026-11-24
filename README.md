@@ -3,8 +3,6 @@
   <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
 </p>
 
-<h1 align="center">RIMBALINK</h1>
-
 <h3 align="center">
   Sistem Peringatan Dini Karhutla dan Pemantauan Lahan Berbasis Node LoRa Surya
 </h3>
