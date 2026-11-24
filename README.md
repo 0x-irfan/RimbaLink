@@ -1,4 +1,4 @@
-
+<img width="1041" height="1021" alt="image" src="https://github.com/user-attachments/assets/1ffee33c-e888-487b-acc4-de03bd0baf84" />
 <p align="center">
   <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
 </p>
@@ -18,38 +18,7 @@
 </p>
 
 ---
-
-## Tentang Proyek
-
-**RimbaLink** adalah rancangan sistem Internet of Things (IoT) untuk mendukung pemantauan kondisi lahan dan peringatan dini kebakaran hutan dan lahan (karhutla). Sistem dirancang menggunakan node sensor berbasis ESP32, komunikasi jarak jauh LoRa, serta sumber daya tenaga surya agar node pemantauan dapat ditempatkan di area yang jauh dari infrastruktur listrik.
-
-Informasi dari node dikirim menuju gateway untuk diteruskan ke sistem pemantauan. Kamera digunakan sebagai sarana verifikasi visual terhadap kondisi atau indikasi kejadian di lapangan. Data pemantauan juga direncanakan dapat ditampilkan bersama peta risiko dan informasi prakiraan.
-
-> **Catatan:** README ini menjelaskan rancangan dan arah pengembangan RimbaLink. Detail sensor, ambang batas peringatan, protokol payload, platform dashboard, serta hasil pengujian akan dilengkapi sesuai implementasi aktual.
-
-## Tujuan
-
-- Mengembangkan sistem pemantauan lahan berbasis IoT dengan komunikasi LoRa.
-- Merancang node sensor yang dapat beroperasi menggunakan energi surya.
-- Mengirimkan data pemantauan dari node ke gateway secara nirkabel.
-- Mendukung verifikasi visual melalui modul kamera.
-- Menyajikan informasi pemantauan dalam konteks lokasi dan peta risiko.
-- Menjadi platform pengembangan sistem peringatan dini karhutla yang modular.
-
-## Arsitektur Sistem
-
-<p align="center">
-  <img src="docs/images/system-architecture.png" alt="Diagram arsitektur sistem RimbaLink" width="90%">
-</p>
-
-**Gambaran alur sistem:**
-
-1. **Node pemantauan** membaca kondisi lingkungan melalui sensor yang terpasang.
-2. **Mikrokontroler ESP32** mengolah data awal dan menyiapkan data untuk dikirim.
-3. **Modul LoRa** mengirimkan data dari node menuju gateway.
-4. **Gateway** menerima data dari node dan menjadi penghubung menuju sistem pemantauan.
-5. **Modul kamera ESP32-CAM** mendukung pengambilan gambar untuk verifikasi visual sesuai skenario implementasi.
-6. **Sistem pemantauan** mengolah dan menyajikan informasi, termasuk visualisasi lokasi, peta risiko, dan prakiraan apabila modul tersebut telah diintegrasikan.
+Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ## Pengembangan Hardware
 
