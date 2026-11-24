@@ -27,7 +27,7 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 2. Desain PCB
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Node</strong><br><img src="gambar/NODE_PCB.png" alt="PCB Node" width="300"></td>
     <td align="center"><strong>Gateway</strong><br><img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300"></td>
@@ -43,7 +43,7 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 3. Visualisasi 3D PCB
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Node</strong><br><img src="gambar/NODE_3D.png" alt="3D Node" width="280"></td>
     <td align="center"><strong>Gateway</strong><br><img src="gambar/GW_3D.png" alt="3D Gateway" width="280"></td>
