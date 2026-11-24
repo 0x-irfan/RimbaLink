@@ -59,8 +59,6 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 4. Realisasi PCB
 
-Foto PCB ditampilkan dalam tabel biasa agar tampak depan dan belakang setiap board terlihat langsung tanpa membuka bagian *summary*.
-
 <table align="center">
   <tr>
     <th align="center">Board</th>
