@@ -19,19 +19,11 @@
 ---
 Akan opensource pada waktunya🗿Klo lolos pendanaan
 
-## Pengembangan Hardware
-
-RimbaLink dikembangkan dengan pendekatan modular. Pemisahan fungsi ke beberapa bagian PCB ditujukan agar perancangan, pengujian, dan perawatan perangkat lebih mudah dilakukan.
-
 ### 1. Desain Skematik
-
-Bagian ini memuat dokumentasi hubungan rangkaian elektronik setiap modul.
 
 | Modul | Dokumentasi |
 |---|---|
-| Node | ![Schematic Node](docs/images/schematic-node.png) |
-| Gateway | ![Schematic Gateway](docs/images/schematic-gateway.png) |
-| Rangkaian keseluruhan | ![Overall schematic](docs/images/schematic-overall.png) |
+| Rangkaian keseluruhan | ![Overall schematic](gambar/GW&NODE_SCH.png) |
 
 ### 2. Desain PCB
 
