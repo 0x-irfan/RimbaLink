@@ -21,9 +21,9 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 1. Desain Skematik
 
-| Modul | Dokumentasi |
-|---|---|
-| Rangkaian keseluruhan | ![Overall schematic](gambar/GW&NODE_SCH.png) |
+| Desain Schematic GateWay Dan Node |
+|---|
+| ![Overall schematic](gambar/GW&NODE_SCH.png) |
 
 ### 2. Desain PCB
 
