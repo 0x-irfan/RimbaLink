@@ -27,15 +27,13 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 ### 2. Desain PCB
 
-Layout PCB dirancang untuk mengintegrasikan komponen pada setiap bagian sistem.
-
 | Modul | Layout PCB |
 |---|---|
-| Node | ![PCB Node](docs/images/pcb-node.png) |
-| Gateway | ![PCB Gateway](docs/images/pcb-gateway.png) |
-| LoRa | ![PCB LoRa](docs/images/pcb-lora.png) |
-| ESP32-CAM | ![PCB ESP32-CAM](docs/images/pcb-espcam.png) |
-| Power | ![PCB Power](docs/images/pcb-power.png) |
+| Node | ![PCB Node](gambar/NODE_PCB.png) |
+| Gateway | ![PCB Gateway](gambar/GW_PCB.png) |
+| LoRa | ![PCB LoRa](gambar/LORA_PCB.png) |
+| ESP32-CAM | ![PCB ESP32-CAM](gambar/ESPCAM_PCB.png) |
+| Power | ![PCB Power](gambar/POWER_PCB.png) |
 
 ### 3. Visualisasi 3D PCB
 
