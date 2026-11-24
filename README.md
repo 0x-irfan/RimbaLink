@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
+  <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="85%">
 </p>
 
 <p align="center">
@@ -23,17 +23,17 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
 
 | Desain Schematic GateWay Dan Node |
 |---|
-| ![Overall schematic](gambar/GW&NODE_SCH.png) |
+| <img src="gambar/GW&NODE_SCH.png" alt="Overall schematic" width="720"> |
 
 ### 2. Desain PCB
 
 | Modul | Layout PCB |
 |---|---|
-| Node | ![PCB Node](gambar/NODE_PCB.png) |
-| Gateway | ![PCB Gateway](gambar/GW_PCB.png) |
-| LoRa | ![PCB LoRa](gambar/LORA_PCB.png) |
-| ESP32-CAM | ![PCB ESP32-CAM](gambar/ESPCAM_PCB.png) |
-| Power | ![PCB Power](gambar/POWER_PCB.png) |
+| Node | <img src="gambar/NODE_PCB.png" alt="PCB Node" width="300"> |
+| Gateway | <img src="gambar/GW_PCB.png" alt="PCB Gateway" width="300"> |
+| LoRa | <img src="gambar/LORA_PCB.png" alt="PCB LoRa" width="300"> |
+| ESP32-CAM | <img src="gambar/ESPCAM_PCB.png" alt="PCB ESP32-CAM" width="300"> |
+| Power | <img src="gambar/POWER_PCB.png" alt="PCB Power" width="300"> |
 
 ### 3. Visualisasi 3D PCB
 
@@ -41,11 +41,11 @@ Render 3D digunakan untuk memeriksa penempatan komponen dan gambaran fisik PCB s
 
 | Modul | Render 3D |
 |---|---|
-| Node | ![3D Node](docs/images/3d-node.png) |
-| Gateway | ![3D Gateway](docs/images/3d-gateway.png) |
-| LoRa | ![3D LoRa](docs/images/3d-lora.png) |
-| ESP32-CAM | ![3D ESP32-CAM](docs/images/3d-espcam.png) |
-| Power | ![3D Power](docs/images/3d-power.png) |
+| Node | <img src="docs/images/3d-node.png" alt="3D Node" width="280"> |
+| Gateway | <img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280"> |
+| LoRa | <img src="docs/images/3d-lora.png" alt="3D LoRa" width="280"> |
+| ESP32-CAM | <img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280"> |
+| Power | <img src="docs/images/3d-power.png" alt="3D Power" width="280"> |
 
 ### 4. Realisasi PCB
 
@@ -56,7 +56,7 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 
 | Tampak depan | Tampak belakang |
 |---|---|
-| ![Node front](docs/images/real-node-front.png) | ![Node back](docs/images/real-node-back.png) |
+| <img src="docs/images/real-node-front.png" alt="Node front" width="220"> | <img src="docs/images/real-node-back.png" alt="Node back" width="220"> |
 
 </details>
 
@@ -65,7 +65,7 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 
 | Tampak depan | Tampak belakang |
 |---|---|
-| ![Gateway front](docs/images/real-gateway-front.png) | ![Gateway back](docs/images/real-gateway-back.png) |
+| <img src="docs/images/real-gateway-front.png" alt="Gateway front" width="220"> | <img src="docs/images/real-gateway-back.png" alt="Gateway back" width="220"> |
 
 </details>
 
@@ -74,7 +74,7 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 
 | Tampak depan | Tampak belakang |
 |---|---|
-| ![LoRa front](docs/images/real-lora-front.png) | ![LoRa back](docs/images/real-lora-back.png) |
+| <img src="docs/images/real-lora-front.png" alt="LoRa front" width="220"> | <img src="docs/images/real-lora-back.png" alt="LoRa back" width="220"> |
 
 </details>
 
@@ -83,7 +83,7 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 
 | Tampak depan | Tampak belakang |
 |---|---|
-| ![ESP32-CAM front](docs/images/real-espcam-front.png) | ![ESP32-CAM back](docs/images/real-espcam-back.png) |
+| <img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="220"> | <img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="220"> |
 
 </details>
 
@@ -92,7 +92,7 @@ Dokumentasi berikut disiapkan untuk menampilkan hasil PCB yang telah dibuat. Fot
 
 | Tampak depan | Tampak belakang |
 |---|---|
-| ![Power front](docs/images/real-power-front.png) | ![Power back](docs/images/real-power-back.png) |
+| <img src="docs/images/real-power-front.png" alt="Power front" width="220"> | <img src="docs/images/real-power-back.png" alt="Power back" width="220"> |
 
 </details>
 
