@@ -1,4 +1,3 @@
-<img width="1041" height="1021" alt="image" src="https://github.com/user-attachments/assets/1ffee33c-e888-487b-acc4-de03bd0baf84" />
 <p align="center">
   <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
 </p>
