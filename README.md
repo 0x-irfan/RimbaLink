@@ -49,15 +49,15 @@ Render 3D disusun berdampingan untuk memudahkan perbandingan bentuk dan penempat
 
 <table>
   <tr>
-    <td align="center"><strong>Node</strong><br><img src="docs/images/3d-node.png" alt="3D Node" width="280"></td>
-    <td align="center"><strong>Gateway</strong><br><img src="docs/images/3d-gateway.png" alt="3D Gateway" width="280"></td>
+    <td align="center"><strong>Node</strong><br><img src="gambar/NODE_3D.png" alt="3D Node" width="280"></td>
+    <td align="center"><strong>Gateway</strong><br><img src="gambar/GW_3D.png" alt="3D Gateway" width="280"></td>
   </tr>
   <tr>
-    <td align="center"><strong>LoRa</strong><br><img src="docs/images/3d-lora.png" alt="3D LoRa" width="280"></td>
-    <td align="center"><strong>Power</strong><br><img src="docs/images/3d-power.png" alt="3D Power" width="280"></td>
+    <td align="center"><strong>LoRa</strong><br><img src="gambar/LORA_3D.png" alt="3D LoRa" width="280"></td>
+    <td align="center"><strong>Power</strong><br><img src="gambar/POWER_3D.png" alt="3D Power" width="280"></td>
   </tr>
   <tr>
-    <td align="center" colspan="2"><strong>ESP32-CAM</strong><br><img src="docs/images/3d-espcam.png" alt="3D ESP32-CAM" width="280"></td>
+    <td align="center" colspan="2"><strong>ESP32-CAM</strong><br><img src="gambar/ESPCAM_3D.png" alt="3D ESP32-CAM" width="280"></td>
   </tr>
 </table>
 
