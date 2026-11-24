@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="gambar/RimbaLink.jpeg" alt="RimbaLink banner" width="100%">
+  <img src="gambar/RimbaLink.png" alt="RimbaLink banner" width="100%">
 </p>
 
 <h1 align="center">RIMBALINK</h1>
