@@ -67,27 +67,27 @@ Akan opensource pada waktunya🗿Klo lolos pendanaan
   </tr>
   <tr>
     <td align="center"><strong>Node</strong></td>
-    <td align="center"><img src="docs/images/real-node-front.png" alt="Node front" width="200"></td>
-    <td align="center"><img src="docs/images/real-node-back.png" alt="Node back" width="200"></td>
+    <td align="center"><img src="gambar/realf_node.jpeg" alt="Node front" width="200"></td>
+    <td align="center"><img src="gambar/realb_node.jpeg" alt="Node back" width="200"></td>
   </tr>
   <tr>
     <td align="center"><strong>Gateway</strong></td>
-    <td align="center"><img src="docs/images/real-gateway-front.png" alt="Gateway front" width="200"></td>
-    <td align="center"><img src="docs/images/real-gateway-back.png" alt="Gateway back" width="200"></td>
+    <td align="center"><img src="gambar/realf_gateway.jpeg" alt="Gateway front" width="200"></td>
+    <td align="center"><img src="gambar/realb_gateway.jpeg" alt="Gateway back" width="200"></td>
   </tr>
   <tr>
     <td align="center"><strong>LoRa</strong></td>
-    <td align="center"><img src="docs/images/real-lora-front.png" alt="LoRa front" width="200"></td>
-    <td align="center"><img src="docs/images/real-lora-back.png" alt="LoRa back" width="200"></td>
+    <td align="center"><img src="gambar/realf_lora.jpeg" alt="LoRa front" width="200"></td>
+    <td align="center"><img src="gambar/realb_lora.jpeg" alt="LoRa back" width="200"></td>
   </tr>
   <tr>
     <td align="center"><strong>ESP32-CAM</strong></td>
-    <td align="center"><img src="docs/images/real-espcam-front.png" alt="ESP32-CAM front" width="200"></td>
-    <td align="center"><img src="docs/images/real-espcam-back.png" alt="ESP32-CAM back" width="200"></td>
+    <td align="center"><img src="gambar/realf_espcam.jpeg" alt="ESP32-CAM front" width="200"></td>
+    <td align="center"><img src="gambar/realb_espcam.jpeg" alt="ESP32-CAM back" width="200"></td>
   </tr>
   <tr>
     <td align="center"><strong>Power</strong></td>
-    <td align="center"><img src="docs/images/real-power-front.png" alt="Power front" width="200"></td>
-    <td align="center"><img src="docs/images/real-power-back.png" alt="Power back" width="200"></td>
+    <td align="center"><img src="gambar/realf_power.jpeg" alt="Power front" width="200"></td>
+    <td align="center"><img src="gambar/realb_power.jpeg" alt="Power back" width="200"></td>
   </tr>
 </table>
